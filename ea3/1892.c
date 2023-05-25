@@ -2,7 +2,11 @@
 #include <stdlib.h>
 #include <string.h>
 
-/*Calouro Vence Veterano?
+/*
+@author: Jonathas Luis de Sousa
+@date: 25/05/2023
+
+CALOURO VENCE VETERANO? - 1892
 
 Professor Denis está curioso para saber se a classificação final de seus N alunos de programação competitiva 
 segue a ordem de matrícula na universidade. Ele pediu a sua ajuda para, dada a classificação final, contar 

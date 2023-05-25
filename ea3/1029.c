@@ -1,6 +1,10 @@
 #include <stdio.h>
 
-/*Fibonacci, Quantas Chamadas?
+/*
+@author: Jonathas Luis de Sousa
+@date: 17/05/2023
+
+FIBONACCI, QUANTAS CHAMADAS? - 1029
 
 Quase todo estudante de Ciência da Computação recebe em algum momento no início de seu curso de
  graduação algum problema envolvendo a sequência de Fibonacci. Tal sequência tem como os dois primeiros
